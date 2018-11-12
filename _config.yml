@@ -6,19 +6,19 @@ relative_permalinks: false
 
 default_theme: yandex2
 default_width: 1024
-default_ratio: 16x9     # 4x3, 16x9, 16x10
-default_lang: en
+default_ratio: 4x3     # 4x3, 16x9, 16x10
+default_lang: ru
 default_body_class: list
 
 presentation:
-    title: Название презентации
-    service: Название сервиса
+    title: "Scapy: манипулируем сетевыми пакетами из Python"
+    service: Облако
     nda: false
     lang: ru            # ru, en
 
 author:
-    name: Автор
-    position: Должность
+    name: Валентин Синицын
+    position: Руководитель группы разработки
     company:
         name: Яндекс
         url:  http://yandex.ru/
